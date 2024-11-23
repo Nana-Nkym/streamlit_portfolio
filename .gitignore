@@ -165,4 +165,4 @@ cython_debug/
 # Streamlit secrets
 .streamlit/secrets.toml
 # Virtual environment
-myenv/nnenv
+myenv
